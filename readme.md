@@ -7,10 +7,10 @@
 * Personal Numbers: D = 5, T = 65
 * GitHub Username:mad242-lang
 
-Repository Contents
-README.md — Student details and repository overview.
+## Repository Contents
+README.md contains Student details and repository overview.
 
-STATUS.md — Assignment progress check-in and completion status.
+STATUS.md contains Assignment progress check-in and completion status.
 
 dart_basics.dart which contaions Solutions for Parts B2, B3, C5, and D2.
 
